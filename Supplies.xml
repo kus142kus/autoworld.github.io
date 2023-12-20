@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Supplies>
+  <Supply>
+    <SupplierCode>1</SupplierCode>
+    <DetailCode>123</DetailCode>
+    <Quantity>10</Quantity>
+    <Date>12.03.2023</Date>
+  </Supply>
+  <Supply>
+    <SupplierCode>2</SupplierCode>
+    <DetailCode>124</DetailCode>
+    <Quantity>120</Quantity>
+    <Date>16.05.2023</Date>
+  </Supply>
+  <Supply>
+    <SupplierCode>3</SupplierCode>
+    <DetailCode>125</DetailCode>
+    <Quantity>110</Quantity>
+    <Date>22.06.2023</Date>
+  </Supply>
+  <Supply>
+    <SupplierCode>4</SupplierCode>
+    <DetailCode>126</DetailCode>
+    <Quantity>5</Quantity>
+    <Date>23.06.2023</Date>
+  </Supply>
+  <Supply>
+    <SupplierCode>5</SupplierCode>
+    <DetailCode>127</DetailCode>
+    <Quantity>30</Quantity>
+    <Date>01.07.2023</Date>
+  </Supply>
+  <Supply>
+    <SupplierCode>1</SupplierCode>
+    <DetailCode>123</DetailCode>
+    <Quantity>5</Quantity>
+    <Date>12.03.2023</Date>
+  </Supply>
+</Supplies>

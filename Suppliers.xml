@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Suppliers>
+  <supplier>
+    <SupplierCode>1</SupplierCode>
+    <Name>ООО ЗАПЧАСТИ-РФ</Name>
+    <Address>г.Москва, ул.Краснобогатырская, д.75</Address>
+    <Phone>+7 999 123 23 23</Phone>
+  </supplier>
+  <supplier>
+    <SupplierCode>2</SupplierCode>
+    <Name>ИП ВОЛКОВ</Name>
+    <Address>г.Новосибирск, ул.Ленина, д.5</Address>
+    <Phone>+7 935 125 25 25</Phone>
+  </supplier>
+  <supplier>
+    <SupplierCode>3</SupplierCode>
+    <Name>ООО ЗАПЧАСТИ-ЮГ</Name>
+    <Address>г.Новороссийск, ул.Красная, д.7</Address>
+    <Phone>+7 918 123 33 33</Phone>
+  </supplier>
+  <supplier>
+    <SupplierCode>4</SupplierCode>
+    <Name>ИП АМАРЯН</Name>
+    <Address>г.Армавир, ул.Пролетарская, д.8</Address>
+    <Phone>+7 918 123 24 24</Phone>
+  </supplier>
+  <supplier>
+    <SupplierCode>5</SupplierCode>
+    <Name>ООО ЗАПЧАСТИ-СЕВЕР</Name>
+    <Address>г.Владивосток, ул.Ленина, д.10</Address>
+    <Phone>+7 982 125 25 25</Phone>
+  </supplier>
+</Suppliers>

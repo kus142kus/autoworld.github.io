@@ -1,0 +1,69 @@
+C:\Users\King\source\repos\Autoworld\Autoworld\bin\Debug\Autoworld.exe.config
+C:\Users\King\source\repos\Autoworld\Autoworld\bin\Debug\Autoworld.exe
+C:\Users\King\source\repos\Autoworld\Autoworld\bin\Debug\Autoworld.pdb
+C:\Users\King\source\repos\Autoworld\Autoworld\bin\Debug\MaterialDesignColors.dll
+C:\Users\King\source\repos\Autoworld\Autoworld\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\King\source\repos\Autoworld\Autoworld\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\King\source\repos\Autoworld\Autoworld\bin\Debug\MaterialDesignColors.pdb
+C:\Users\King\source\repos\Autoworld\Autoworld\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\King\source\repos\Autoworld\Autoworld\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\King\source\repos\Autoworld\Autoworld\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\King\source\repos\Autoworld\Autoworld\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\King\source\repos\Autoworld\Autoworld\obj\Debug\Autoworld.csproj.AssemblyReference.cache
+C:\Users\King\source\repos\Autoworld\Autoworld\obj\Debug\MainWindow.g.cs
+C:\Users\King\source\repos\Autoworld\Autoworld\obj\Debug\App.g.cs
+C:\Users\King\source\repos\Autoworld\Autoworld\obj\Debug\Autoworld_MarkupCompile.cache
+C:\Users\King\source\repos\Autoworld\Autoworld\obj\Debug\Autoworld_MarkupCompile.lref
+C:\Users\King\source\repos\Autoworld\Autoworld\obj\Debug\App.baml
+C:\Users\King\source\repos\Autoworld\Autoworld\obj\Debug\MainWindow.baml
+C:\Users\King\source\repos\Autoworld\Autoworld\obj\Debug\Autoworld.g.resources
+C:\Users\King\source\repos\Autoworld\Autoworld\obj\Debug\Autoworld.Properties.Resources.resources
+C:\Users\King\source\repos\Autoworld\Autoworld\obj\Debug\Autoworld.csproj.GenerateResource.cache
+C:\Users\King\source\repos\Autoworld\Autoworld\obj\Debug\Autoworld.csproj.CoreCompileInputs.cache
+C:\Users\King\source\repos\Autoworld\Autoworld\obj\Debug\Autoworld.csproj.CopyComplete
+C:\Users\King\source\repos\Autoworld\Autoworld\obj\Debug\Autoworld.exe
+C:\Users\King\source\repos\Autoworld\Autoworld\obj\Debug\Autoworld.pdb
+C:\Users\King\OneDrive\Рабочий стол\Учеба\1 семетр\Программная верстка\2 задание\source\repos\Autoworld\Autoworld\bin\Debug\Autoworld.exe.config
+C:\Users\King\OneDrive\Рабочий стол\Учеба\1 семетр\Программная верстка\2 задание\source\repos\Autoworld\Autoworld\bin\Debug\Autoworld.exe
+C:\Users\King\OneDrive\Рабочий стол\Учеба\1 семетр\Программная верстка\2 задание\source\repos\Autoworld\Autoworld\bin\Debug\Autoworld.pdb
+C:\Users\King\OneDrive\Рабочий стол\Учеба\1 семетр\Программная верстка\2 задание\source\repos\Autoworld\Autoworld\bin\Debug\MaterialDesignColors.dll
+C:\Users\King\OneDrive\Рабочий стол\Учеба\1 семетр\Программная верстка\2 задание\source\repos\Autoworld\Autoworld\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\King\OneDrive\Рабочий стол\Учеба\1 семетр\Программная верстка\2 задание\source\repos\Autoworld\Autoworld\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\King\OneDrive\Рабочий стол\Учеба\1 семетр\Программная верстка\2 задание\source\repos\Autoworld\Autoworld\bin\Debug\MaterialDesignColors.pdb
+C:\Users\King\OneDrive\Рабочий стол\Учеба\1 семетр\Программная верстка\2 задание\source\repos\Autoworld\Autoworld\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\King\OneDrive\Рабочий стол\Учеба\1 семетр\Программная верстка\2 задание\source\repos\Autoworld\Autoworld\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\King\OneDrive\Рабочий стол\Учеба\1 семетр\Программная верстка\2 задание\source\repos\Autoworld\Autoworld\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\King\OneDrive\Рабочий стол\Учеба\1 семетр\Программная верстка\2 задание\source\repos\Autoworld\Autoworld\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\King\OneDrive\Рабочий стол\Учеба\1 семетр\Программная верстка\2 задание\source\repos\Autoworld\Autoworld\obj\Debug\Autoworld.csproj.AssemblyReference.cache
+C:\Users\King\OneDrive\Рабочий стол\Учеба\1 семетр\Программная верстка\2 задание\source\repos\Autoworld\Autoworld\obj\Debug\MainWindow.g.cs
+C:\Users\King\OneDrive\Рабочий стол\Учеба\1 семетр\Программная верстка\2 задание\source\repos\Autoworld\Autoworld\obj\Debug\App.g.cs
+C:\Users\King\OneDrive\Рабочий стол\Учеба\1 семетр\Программная верстка\2 задание\source\repos\Autoworld\Autoworld\obj\Debug\Autoworld_MarkupCompile.cache
+C:\Users\King\OneDrive\Рабочий стол\Учеба\1 семетр\Программная верстка\2 задание\source\repos\Autoworld\Autoworld\obj\Debug\Autoworld_MarkupCompile.lref
+C:\Users\King\OneDrive\Рабочий стол\Учеба\1 семетр\Программная верстка\2 задание\source\repos\Autoworld\Autoworld\obj\Debug\App.baml
+C:\Users\King\OneDrive\Рабочий стол\Учеба\1 семетр\Программная верстка\2 задание\source\repos\Autoworld\Autoworld\obj\Debug\MainWindow.baml
+C:\Users\King\OneDrive\Рабочий стол\Учеба\1 семетр\Программная верстка\2 задание\source\repos\Autoworld\Autoworld\obj\Debug\Autoworld.g.resources
+C:\Users\King\OneDrive\Рабочий стол\Учеба\1 семетр\Программная верстка\2 задание\source\repos\Autoworld\Autoworld\obj\Debug\Autoworld.Properties.Resources.resources
+C:\Users\King\OneDrive\Рабочий стол\Учеба\1 семетр\Программная верстка\2 задание\source\repos\Autoworld\Autoworld\obj\Debug\Autoworld.csproj.GenerateResource.cache
+C:\Users\King\OneDrive\Рабочий стол\Учеба\1 семетр\Программная верстка\2 задание\source\repos\Autoworld\Autoworld\obj\Debug\Autoworld.csproj.CoreCompileInputs.cache
+C:\Users\King\OneDrive\Рабочий стол\Учеба\1 семетр\Программная верстка\2 задание\source\repos\Autoworld\Autoworld\obj\Debug\Autoworld.csproj.CopyComplete
+C:\Users\King\OneDrive\Рабочий стол\Учеба\1 семетр\Программная верстка\2 задание\source\repos\Autoworld\Autoworld\obj\Debug\Autoworld.exe
+C:\Users\King\OneDrive\Рабочий стол\Учеба\1 семетр\Программная верстка\2 задание\source\repos\Autoworld\Autoworld\obj\Debug\Autoworld.pdb
+C:\Users\King\source\repos\Autoworld\Autoworld\bin\Debug\idout.db
+C:\Users\King\source\repos\Autoworld\Autoworld\bin\Debug\EntityFramework.dll
+C:\Users\King\source\repos\Autoworld\Autoworld\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\King\source\repos\Autoworld\Autoworld\bin\Debug\System.Data.SQLite.dll
+C:\Users\King\source\repos\Autoworld\Autoworld\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\King\source\repos\Autoworld\Autoworld\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\King\source\repos\Autoworld\Autoworld\bin\Debug\EntityFramework.xml
+C:\Users\King\source\repos\Autoworld\Autoworld\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\King\source\repos\Autoworld\Autoworld\bin\Debug\System.Data.SQLite.xml
+C:\Users\King\source\repos\Autoworld\Autoworld\obj\Debug\AuthWindow.g.cs
+C:\Users\King\source\repos\Autoworld\Autoworld\obj\Debug\AuthWindow.baml
+C:\Users\King\source\repos\Autoworld\Autoworld\obj\Debug\Tables.g.cs
+C:\Users\King\source\repos\Autoworld\Autoworld\obj\Debug\Tables.baml
+C:\Users\King\source\repos\Autoworld\Autoworld\obj\Debug\Details.g.cs
+C:\Users\King\source\repos\Autoworld\Autoworld\obj\Debug\Supplies.g.cs
+C:\Users\King\source\repos\Autoworld\Autoworld\obj\Debug\Details.baml
+C:\Users\King\source\repos\Autoworld\Autoworld\obj\Debug\Supplies.baml
+C:\Users\King\source\repos\Autoworld\Autoworld\obj\Debug\Suppliers.g.cs
+C:\Users\King\source\repos\Autoworld\Autoworld\obj\Debug\Suppliers.baml

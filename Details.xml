@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Details>
+  <Detail>
+    <DetailCode>123</DetailCode>
+    <Name>Двигатель</Name>
+    <Article>123432</Article>
+    <Price>140 000</Price>
+    <Note></Note>
+  </Detail>
+  <Detail>
+    <DetailCode>124</DetailCode>
+    <Name>Коленвал</Name>
+    <Article>133432</Article>
+    <Price>14 000</Price>
+    <Note></Note>
+  </Detail>
+  <Detail>
+    <DetailCode>125</DetailCode>
+    <Name>Масляный фильтр</Name>
+    <Article>523432</Article>
+    <Price>1 400</Price>
+    <Note></Note>
+  </Detail>
+  <Detail>
+    <DetailCode>126</DetailCode>
+    <Name>Ступица</Name>
+    <Article>323432</Article>
+    <Price>12 000</Price>
+    <Note></Note>
+  </Detail>
+  <Detail>
+    <DetailCode>127</DetailCode>
+    <Name>Колпачок омывателя</Name>
+    <Article>123222</Article>
+    <Price>800</Price>
+    <Note></Note>
+  </Detail>
+</Details>
